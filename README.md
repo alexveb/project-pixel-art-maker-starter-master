@@ -15,4 +15,11 @@ Your users should be able to:
            
 Your primary task is to implement the makeGrid() function, that dynamically creates a grid that the user can interact with.
 
+In this project, you'll use your front-end programming skills including:
+
+   - Defining variables with const and let
+   - Accessing the DOM using methods of the document object
+   - Declaring functions and attaching them to DOM objects as event listeners
+   - Writing nested loops and using loop variables
+
 
